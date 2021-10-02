@@ -23,6 +23,11 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#289](https://github.com/anishathalye/dotbot/issues/289) in [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
+2. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🗣 Commented on [#1651](https://github.com/LunarVim/LunarVim/issues/1651) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. 🗣 Commented on [#1651](https://github.com/LunarVim/LunarVim/issues/1651) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 💪 Opened PR [#1651](https://github.com/LunarVim/LunarVim/pull/1651) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
