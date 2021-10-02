@@ -8,6 +8,11 @@ You can find me at: [🌐]
 
 ### 📕 Latest Updates
 <!-- BLOG:START -->
+- [Improved GPU Implementations of the Pair-HMM Forward Algorithm for DNA Sequence Alignment](https://ssbaner2.cs.illinois.edu/publications/iccd2021/)
+- [BayesPerf: Minimizing Performance Monitoring Errors Using Bayesian Statistics](https://ssbaner2.cs.illinois.edu/publications/asplos2021/)
+- [Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems](https://ssbaner2.cs.illinois.edu/publications/sc2020/)
+- [FIRM: An Intelligent Fine-Grained Resource Management Framework for SLO-Oriented Microservices](https://ssbaner2.cs.illinois.edu/publications/osdi2020/)
+- [Machine Learning for Load Balancing in the Linux Kernel](https://ssbaner2.cs.illinois.edu/publications/apsys2020/)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
