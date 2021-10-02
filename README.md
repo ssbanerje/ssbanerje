@@ -17,6 +17,8 @@ You can find me at: [🌐]
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BayesPerf: Minimizing Performance Monitoring Errors Using Bayesian Statistics](https://www.youtube.com/watch?v=Y3d8Vu8g-Rw)
+- [ASPLOS 2019 Lightning Talk - AcMC²: Accelerated Markov Chain Monte Carlo for Probabilistic Models](https://www.youtube.com/watch?v=3l_ZuBkZjJk)
 <!-- YOUTUBE:END -->
 
 ### 💻 Latest Github Activity
