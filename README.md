@@ -23,10 +23,10 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10251](https://github.com/ohmyzsh/ohmyzsh/issues/10251) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. 🗣 Commented on [#289](https://github.com/anishathalye/dotbot/issues/289) in [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
-3. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 🗣 Commented on [#1651](https://github.com/LunarVim/LunarVim/issues/1651) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. ❗️ Closed issue [#288](https://github.com/anishathalye/dotbot/issues/288) in [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
+2. ❗️ Opened issue [#10251](https://github.com/ohmyzsh/ohmyzsh/issues/10251) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+3. 🗣 Commented on [#289](https://github.com/anishathalye/dotbot/issues/289) in [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
+4. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 5. 🗣 Commented on [#1651](https://github.com/LunarVim/LunarVim/issues/1651) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
