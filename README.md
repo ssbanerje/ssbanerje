@@ -23,9 +23,9 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. 🗣 Commented on [#1744](https://github.com/LunarVim/LunarVim/issues/1744) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 2. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-3. 🗣 Commented on [#241](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/241) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+3. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 4. 🗣 Commented on [#241](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/241) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 5. 🗣 Commented on [#241](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/241) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 <!--END_SECTION:activity-->
