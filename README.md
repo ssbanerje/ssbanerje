@@ -24,10 +24,10 @@ You can find me at: [🌐]
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. 🗣 Commented on [#1762](https://github.com/LunarVim/LunarVim/issues/1762) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 3. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 🗣 Commented on [#1755](https://github.com/LunarVim/LunarVim/issues/1755) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-5. ❗️ Opened issue [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
