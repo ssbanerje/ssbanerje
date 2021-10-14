@@ -23,10 +23,10 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#1762](https://github.com/LunarVim/LunarVim/issues/1762) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. 🗣 Commented on [#1775](https://github.com/LunarVim/LunarVim/issues/1775) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. 💪 Opened PR [#1776](https://github.com/LunarVim/LunarVim/pull/1776) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 3. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. 🗣 Commented on [#1762](https://github.com/LunarVim/LunarVim/issues/1762) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 5. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
