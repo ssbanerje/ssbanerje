@@ -23,11 +23,11 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1775](https://github.com/LunarVim/LunarVim/issues/1775) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 💪 Opened PR [#1776](https://github.com/LunarVim/LunarVim/pull/1776) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-3. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 🗣 Commented on [#1762](https://github.com/LunarVim/LunarVim/issues/1762) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-5. 🗣 Commented on [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. ❗️ Closed issue [#650](https://github.com/p2t2/figaro/issues/650) in [p2t2/figaro](https://github.com/p2t2/figaro)
+2. ❗️ Closed issue [#655](https://github.com/p2t2/figaro/issues/655) in [p2t2/figaro](https://github.com/p2t2/figaro)
+3. ❗️ Closed issue [#39](https://github.com/aeroxis/sultan/issues/39) in [aeroxis/sultan](https://github.com/aeroxis/sultan)
+4. 🗣 Commented on [#1775](https://github.com/LunarVim/LunarVim/issues/1775) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 💪 Opened PR [#1776](https://github.com/LunarVim/LunarVim/pull/1776) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
