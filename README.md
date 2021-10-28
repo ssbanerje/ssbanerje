@@ -23,11 +23,11 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#1813](https://github.com/LunarVim/LunarVim/issues/1813) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-3. 💪 Opened PR [#3](https://github.com/kylo252/LunarVim/pull/3) in [kylo252/LunarVim](https://github.com/kylo252/LunarVim)
-4. 🗣 Commented on [#1412](https://github.com/LunarVim/LunarVim/issues/1412) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-5. 🗣 Commented on [#5](https://github.com/neoclide/vim-node-rpc/issues/5) in [neoclide/vim-node-rpc](https://github.com/neoclide/vim-node-rpc)
+1. 🗣 Commented on [#1849](https://github.com/LunarVim/LunarVim/issues/1849) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. ❗️ Closed issue [#1757](https://github.com/LunarVim/LunarVim/issues/1757) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🗣 Commented on [#1813](https://github.com/LunarVim/LunarVim/issues/1813) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. 💪 Opened PR [#3](https://github.com/kylo252/LunarVim/pull/3) in [kylo252/LunarVim](https://github.com/kylo252/LunarVim)
+5. 🗣 Commented on [#1412](https://github.com/LunarVim/LunarVim/issues/1412) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
