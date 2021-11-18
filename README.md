@@ -23,11 +23,11 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-2. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-3. ❗️ Opened issue [#401](https://github.com/lewis6991/gitsigns.nvim/issues/401) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
-4. 🗣 Commented on [#1](https://github.com/ssbanerje/dotbot-ifplatform/issues/1) in [ssbanerje/dotbot-ifplatform](https://github.com/ssbanerje/dotbot-ifplatform)
-5. 🗣 Commented on [#1648](https://github.com/LunarVim/LunarVim/issues/1648) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
+2. ❗️ Closed issue [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
+3. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
+4. ❗️ Opened issue [#401](https://github.com/lewis6991/gitsigns.nvim/issues/401) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+5. 🗣 Commented on [#1](https://github.com/ssbanerje/dotbot-ifplatform/issues/1) in [ssbanerje/dotbot-ifplatform](https://github.com/ssbanerje/dotbot-ifplatform)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
