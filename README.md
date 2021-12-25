@@ -23,11 +23,11 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2115](https://github.com/LunarVim/LunarVim/issues/2115) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-3. ❗️ Closed issue [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-4. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-5. ❗️ Opened issue [#401](https://github.com/lewis6991/gitsigns.nvim/issues/401) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+1. 🗣 Commented on [#2115](https://github.com/LunarVim/LunarVim/issues/2115) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. ❗️ Opened issue [#2115](https://github.com/LunarVim/LunarVim/issues/2115) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
+4. ❗️ Closed issue [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
+5. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
 <!--END_SECTION:activity-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
