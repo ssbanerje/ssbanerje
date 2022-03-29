@@ -22,12 +22,8 @@ You can find me at: [🌐]
 <!-- YOUTUBE:END -->
 
 ### 💻 Latest Github Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2115](https://github.com/LunarVim/LunarVim/issues/2115) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. ❗️ Opened issue [#2115](https://github.com/LunarVim/LunarVim/issues/2115) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-3. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-4. ❗️ Closed issue [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-5. 🗣 Commented on [#2](https://github.com/CSLDepend/AVFI/issues/2) in [CSLDepend/AVFI](https://github.com/CSLDepend/AVFI)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
