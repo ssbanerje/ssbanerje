@@ -23,7 +23,15 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--RECENT_ACTIVITY:start-->
+1. 
+2. 
+3. 
+4. 
+5. 
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, March 29th, 2022, 11:33:49 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
