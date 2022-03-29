@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README
+  update-blog-posts:
+    name: Update blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,12 +17,21 @@ jobs:
           max_post_count: 5
           comment_tag_name: "BLOG"
           feed_list: "https://ssbaner2.cs.illinois.edu/index.xml"
+  update-youtube-posts:
+    name: Update youtube posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         name: Update youtube feed
         with:
           max_post_count: 5
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBoD-0NMZvl0u6Mmy0FS-XA"
+  update-github-posts:
+    name: Update github posts
+    runs-on: ubuntu-latest
+    steps:
       - uses: Readme-Workflows/recent-activity@v2.3.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
