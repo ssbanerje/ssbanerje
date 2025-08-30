@@ -23,15 +23,15 @@ You can find me at: [🌐]
 
 ### 💻 Latest Github Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
-2. 💪 Opened PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
-3. 🎉 Merged PR [#3](https://github.com/ssbanerje/ssbanerje.github.io/pull/3) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
-4. 💪 Opened PR [#1](https://github.com/ssbanerje/ssbanerje.github.io/pull/1) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
-5. 
+1. ⭐ Starred [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles)
+2. ✔️ Closed issue [#6](https://github.com/ssbanerje/dotfiles/issues/6) in [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles)
+3. 🎉 Merged PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
+4. 💪 Opened PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
+5. 🎉 Merged PR [#3](https://github.com/ssbanerje/ssbanerje.github.io/pull/3) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 11:09:17 AM
+Last Updated: Saturday, August 30th, 2025, 12:23:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
