@@ -25,13 +25,13 @@ You can find me at: [🌐]
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles)
 2. ✔️ Closed issue [#6](https://github.com/ssbanerje/dotfiles/issues/6) in [ssbanerje/dotfiles](https://github.com/ssbanerje/dotfiles)
-3. 💪 Opened PR [#4](undefined) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
+3. 🎉 Merged PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
 4. 💪 Opened PR [#4](https://github.com/ssbanerje/ssbanerje.github.io/pull/4) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
 5. 🎉 Merged PR [#3](https://github.com/ssbanerje/ssbanerje.github.io/pull/3) in [ssbanerje/ssbanerje.github.io](https://github.com/ssbanerje/ssbanerje.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 8th, 2025, 8:14:20 PM
+Last Updated: Monday, September 8th, 2025, 9:11:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [🌐]: https://ssbaner2.cs.illinois.edu/
